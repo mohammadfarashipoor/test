@@ -1,5 +1,5 @@
 import CloseIcon from "@assets/icons/close.svg";
-import BackIcon from "@assets/icons/group.svg";
+import BackIcon from "@assets/icons/Group.svg";
 import { SubmitBtn } from "..";
 import { toast } from "react-toastify";
 import { useTheme } from "@/context/ThemeContext";
