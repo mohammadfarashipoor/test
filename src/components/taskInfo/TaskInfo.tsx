@@ -1,7 +1,7 @@
 import Bookmark from "@/assets/icons/tag.svg";
 import Plusgreen from "@/assets/icons/Add.svg";
 import Comment from "@/assets/icons/comment.svg";
-import Xbtn from "@/assets/icons/Close.svg";
+import Xbtn from "@/assets/icons/close.svg";
 import { useContext } from "react";
 import { AppContext } from "@/context/store";
 import FlagIcon from "../newTask/Flags/FlagIcon";
